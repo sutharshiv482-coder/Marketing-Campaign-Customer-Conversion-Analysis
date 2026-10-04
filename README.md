@@ -6,11 +6,11 @@ Marketing Campaign & Customer Conversion Analysis using Python, SQL, and Busines
 
 ## 📊 Project Overview
 
-This project analyzes marketing campaign and customer interaction data to understand how customers respond to marketing activities and identify factors that influence conversion.
+This project analyzes marketing campaign and customer interaction data to understand how customers respond to marketing activities and identify the factors associated with successful conversion.
 
-The analysis evaluates campaign performance across customer segments, channels, demographics, and engagement levels to identify patterns in customer response and conversion behavior.
+The analysis evaluates campaign performance across customer segments, channels, demographics, engagement levels, and campaign responses. Python is used for data preparation and exploratory analysis, while SQL is used to perform business-focused analysis and KPI calculations. An interactive dashboard presents the key metrics, trends, customer behavior, and campaign insights in a business-friendly format.
 
-The project combines Python for data preparation and analysis, SQL for business-focused analysis and KPI calculations, and a Web-Based Interactive Analytics Dashboard for presenting campaign performance, conversion metrics, customer behavior, and business insights.
+The overall goal is to transform raw marketing and customer data into actionable insights that can support better campaign targeting, channel optimization, customer engagement, and conversion decisions.
 
 ---
 

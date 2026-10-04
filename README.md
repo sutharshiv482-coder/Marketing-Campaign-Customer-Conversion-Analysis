@@ -1,6 +1,8 @@
 # 📣 Marketing Campaign & Customer Conversion Analysis
 
-Marketing Campaign & Customer Conversion Analysis using Python, SQL, and Business Analytics to evaluate campaign performance, understand customer response, identify conversion patterns, and support data-driven marketing decisions.
+An interactive **Marketing Campaign & Customer Conversion Analytics Dashboard** built using **Python (Pandas), SQL, Excel, and Power BI** to evaluate campaign performance, understand customer response, analyze conversion patterns, measure channel effectiveness, and support data-driven marketing decisions.
+
+This project follows an end-to-end **Data Analyst workflow**, from understanding the business problem and preparing marketing data to exploratory analysis, SQL analysis, KPI development, dashboard development, business insights, and recommendations.
 
 ---
 

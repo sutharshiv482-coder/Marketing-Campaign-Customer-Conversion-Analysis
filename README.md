@@ -161,3 +161,20 @@ Key activities included:
 
 ---
 
+# 4️⃣ Prepare Data using Pandas
+
+Data cleaning and preprocessing were performed using **Python (Pandas)**.
+
+The preparation process focused on:
+
+* Data transformation.
+* Customer-level analysis preparation.
+* Campaign-level analysis preparation.
+Channel-level analysis preparation.
+Conversion analysis preparation.
+Revenue analysis preparation.
+KPI calculation preparation.
+Preparing structured data for visualization.
+> 🧹 **Clean data is the foundation of reliable fraud analysis.**
+
+---

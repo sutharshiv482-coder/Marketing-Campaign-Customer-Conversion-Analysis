@@ -163,19 +163,19 @@ Key activities included:
 
 # 4️⃣ Prepare Data using Pandas
 
-**Python (Pandas)** was used to organize and prepare the dataset for analysis.
+**Python (Pandas)** was used to transform and structure the cleaned dataset for reliable analysis and reporting.
 
 The preparation process focused on:
 
-* Data transformation.
-* Customer-level analysis preparation.
-* Campaign-level analysis preparation.
-* Channel-level analysis preparation.
-* Conversion analysis preparation.
-* Revenue analysis preparation.
-* KPI calculation preparation.
-* Preparing structured data for visualization.
-  
-> 🧹 **The prepared dataset was then used for exploratory analysis, SQL analysis, and dashboard development.**
+* Transforming and organizing analytical data.
+* Preparing customer-level analysis.
+* Preparing campaign-level analysis.
+* Preparing marketing channel analysis.
+* Preparing conversion and customer response analysis.
+* Preparing revenue and acquisition cost analysis.
+* Structuring data for KPI calculations.
+* Preparing analysis-ready data for visualization and reporting.
+
+> 📊 **The prepared dataset was used for exploratory analysis, SQL analysis, KPI development, and Power BI dashboard development.**
 
 ---

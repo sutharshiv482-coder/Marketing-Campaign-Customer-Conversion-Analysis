@@ -125,20 +125,18 @@ Key objectives included:
 
 # 2️⃣ Inspect Raw Dataset
 
-The marketing and customer dataset was reviewed to understand its structure and identify the information required for analysis.
+The raw marketing campaign dataset was reviewed to understand its structure, data fields, and analytical relevance before beginning the cleaning and analysis process.
 
-Activities included:
+The inspection included:
 
-* Loading the dataset.
-* Reviewing the dataset structure.
-* Inspecting column names.
-* Reviewing data types.
-* Examining customer-related information.
-* Reviewing campaign-related information.
-* Reviewing marketing channel information.
-* Reviewing customer response and conversion fields.
-* Reviewing revenue-related information.
-* Understanding the fields required for KPI calculations.
+* Loading and reviewing the raw dataset.
+* Examining dataset dimensions and column names.
+* Reviewing data types and identifying potential data-quality issues.
+* Understanding customer attributes and purchase history.
+* Reviewing marketing channels and campaign information.
+* Inspecting customer engagement, response, and conversion fields.
+* Reviewing acquisition cost and revenue-related fields.
+* Identifying the fields required for KPI calculations and business analysis.
 
 ---
 

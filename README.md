@@ -142,20 +142,22 @@ The inspection included:
 
 # 3️⃣ Perform Data Cleaning
 
-Data cleaning and preprocessing were performed using Python (Pandas) to prepare the dataset for reliable marketing analysis.
+Data cleaning and preprocessing were performed using **Python (Pandas)** to improve data quality, consistency, and reliability for marketing analysis.
 
 Key activities included:
 
-* Reviewing data quality.
-* Handling missing or incomplete values where required.
-* Identifying and addressing duplicate records.
-* Correcting inconsistent data types and formats.
-* Reviewing inconsistent categorical values.
-* Preparing customer, campaign, channel, conversion, and revenue fields.
-* Creating analytical fields required for KPI calculations.
-* Preparing the dataset for SQL analysis and Power BI reporting.
+* Identifying and assessing missing values.
+* Removing exact duplicate records.
+* Parsing and standardizing date formats.
+* Standardizing inconsistent categorical values.
+* Correcting invalid and inconsistent numeric values.
+* Validating customer, campaign, channel, and device attributes.
+* Validating conversion, revenue, and acquisition cost fields.
+* Applying business rules to identify logical data inconsistencies.
+* Preserving legitimate missing values where imputation could introduce bias.
+* Preparing the cleaned dataset for EDA, SQL analysis, KPI development, and Power BI reporting.
 
-🧹 Clean and reliable data is the foundation of meaningful marketing analysis.
+🧹 **Clean and reliable data provides the foundation for accurate marketing insights and data-driven decisions.**
 
 ---
 

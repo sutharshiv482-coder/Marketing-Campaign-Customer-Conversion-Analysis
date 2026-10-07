@@ -179,3 +179,44 @@ The preparation process focused on:
 > 📊 **The prepared dataset was used for exploratory analysis, SQL analysis, KPI development, and Power BI dashboard development.**
 
 ---
+
+# 5️⃣ Validate Cleaned Data
+
+After cleaning and preprocessing, the dataset was validated using **Python (Pandas)** to ensure data consistency, accuracy, and readiness for analysis.
+
+Validation included:
+
+* Rechecking missing values.
+* Confirming that duplicate records were removed.
+* Validating numeric values and acceptable ranges.
+* Checking fraud-label consistency in `Class`.
+* Validating `merchant_category` values.
+* Checking valid `entry_mode` categories.
+* Validating `time_seconds` within the expected range of **0–86,400 seconds**.
+* Confirming appropriate data types for analytical fields.
+* Verifying `transaction_id` formatting and consistency.
+* Checking `is_foreign` values for valid binary representation.
+* Performing final data-quality and logical consistency checks.
+
+> ✅ **Validation confirmed that the cleaned dataset was consistent, reliable, and ready for fraud-pattern analysis.**
+
+---
+
+# 6️⃣ Explore Fraud Patterns
+
+Exploratory Data Analysis (EDA) was performed using **Python (Pandas)** to identify patterns and characteristics associated with fraudulent transactions.
+
+The analysis focused on:
+
+* Comparing fraudulent and non-fraudulent transactions.
+* Calculating the overall fraud rate.
+* Analyzing fraud rates across merchant categories.
+* Comparing fraud rates by transaction entry mode.
+* Analyzing transaction amount patterns.
+* Comparing foreign and domestic transaction activity.
+* Identifying high-value fraudulent transactions.
+* Examining transaction-level characteristics associated with fraud.
+
+> 🔍 **The analysis helped identify key fraud patterns, high-risk transaction characteristics, and areas requiring closer monitoring.**
+
+---

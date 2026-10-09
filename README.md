@@ -220,3 +220,13 @@ The analysis focused on:
 > 🔍 **The analysis helped identify key fraud patterns, high-risk transaction characteristics, and areas requiring closer monitoring.**
 
 ---
+
+# 7️⃣ Perform SQL Business Analysis
+
+Use **SQL** to answer business questions and calculate important marketing metrics.
+
+Analysis may include:
+
+* Total customers and customer distribution.
+* Overall campaign response and conversion rates.
+* Campaign-wise performance comparisons.

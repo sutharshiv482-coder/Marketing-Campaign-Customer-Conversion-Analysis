@@ -230,3 +230,10 @@ Analysis may include:
 * Total customers and customer distribution.
 * Overall campaign response and conversion rates.
 * Campaign-wise performance comparisons.
+* Customer segmentation and response analysis.
+* Channel-wise engagement and conversion analysis.
+* Identification of high-performing customer groups.
+* Aggregation of campaign metrics for reporting.
+
+---
+

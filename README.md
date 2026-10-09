@@ -237,3 +237,21 @@ Analysis may include:
 
 ---
 
+# 8️⃣ Define Marketing KPIs
+
+Establish measurable indicators to evaluate marketing performance.
+
+Potential KPIs include:
+
+| KPI | Purpose |
+|---|---|
+| Total Customers | Measures the size of the analyzed customer base |
+| Total Responders | Counts customers who responded to a campaign |
+| Response Rate | Measures the proportion of customers who responded |
+| Conversion Rate | Measures the proportion of customers who completed the defined conversion action |
+| Campaign Acceptance Rate | Evaluates the proportion of customers accepting a campaign offer |
+| Campaign Performance | Compares results across individual campaigns |
+| Channel Performance | Evaluates results across marketing channels |
+| Customer Segment Performance | Compares response and conversion behavior across customer groups |
+
+---

@@ -255,3 +255,8 @@ Potential KPIs include:
 | Customer Segment Performance | Compares response and conversion behavior across customer groups |
 
 ---
+
+### 9️⃣ Analyze Customer & Campaign Performance
+
+- Compare campaign outcomes and identify stronger-performing campaigns.
+- Evaluate customer response patterns across available segments.

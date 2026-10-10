@@ -260,3 +260,5 @@ Potential KPIs include:
 
 - Compare campaign outcomes and identify stronger-performing campaigns.
 - Evaluate customer response patterns across available segments.
+- Examine channel effectiveness using consistent metrics.
+- Identify customer groups with higher response or conversion rates.

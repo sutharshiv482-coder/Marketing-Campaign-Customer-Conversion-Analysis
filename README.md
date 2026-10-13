@@ -302,3 +302,23 @@ Key findings reflected in the dashboard:
 - 151 orders of $1K or more make up about 73% of revenue, so revenue rankings should be read with the under-$1K toggle.
 
 Insights should be based on actual analytical results rather than assumptions.
+
+---
+
+### 1️⃣2️⃣ Recommend Actions
+
+Translate findings into practical recommendations for marketing teams.
+
+Potential recommendations include:
+
+- Prioritize campaigns that demonstrate stronger performance.
+- Improve targeting for customer segments with higher conversion potential.
+- Review underperforming channels and campaign strategies.
+- Personalize marketing messages for relevant customer groups.
+- Use historical campaign results to improve future targeting.
+- Monitor conversion and response KPIs regularly.
+- Test campaign changes before expanding investment.
+
+Final recommendations should be supported by the project's actual findings.
+
+---

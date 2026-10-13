@@ -266,3 +266,22 @@ Potential KPIs include:
 - Translate analytical findings into business-relevant comparisons.
 
 ---
+
+### 🔟 Build Interactive Marketing Dashboard (Web-Based)
+
+![Marketing Campaign Performance Dashboard]()
+
+Developed a single-page interactive dashboard that communicates marketing performance and customer conversion trends for 48,971 marketing contacts (Jan 2024 – Dec 2025). Duplicate records and placeholder values were cleaned before any measure was calculated.
+
+**Dashboard components:**
+
+- 🎯 **KPI Cards** – Conversion Rate (11.0%), Conversions (5,375), Revenue and Cost per Conversion, each with a monthly sparkline and a last-3-months vs prior-3-months change. Contacts and conversions in the current selection are shown in the header. In this dataset, responders are the contacts with a converted flag.
+- 📣 **Campaign Performance Comparison** – Conversion rate across 12 campaigns, from Friends & Family (18.2%) down to Banner Awareness (3.6%). Click a bar to filter the whole page.
+- 📡 **Marketing Channel Analysis** – Conversion and revenue by channel: Referral 18.3%, Email 15.8%, Organic Search 12.7%, Paid Search 11.5%, Social Media 6.2%, Display Ads 3.6%.
+- 👥 **Customer Segment Analysis** – Conversion by device (desktop 14.1% vs mobile 9.1%) and by prior purchases (10.0% with none, rising to 16.6% with five or more).
+- 👀 **Customer Response and Engagement** – Conversion by pages viewed (8.9% for 0–2 pages, rising to 16.9% for 11 or more).
+- 🎛️ **Interactive Slicers and Filters** – Channel, Device, New vs Returning customers, and a revenue view toggle (all orders vs orders under $1K).
+- 💡 **Summary of Business Findings** – Chart subtitles update with the filters to name the top and lowest performers, and a dashed line shows the average conversion rate for comparison.
+
+---
+

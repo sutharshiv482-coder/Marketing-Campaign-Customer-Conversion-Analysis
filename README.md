@@ -283,5 +283,22 @@ Developed a single-page interactive dashboard that communicates marketing perfor
 - 🎛️ **Interactive Slicers and Filters** – Channel, Device, New vs Returning customers, and a revenue view toggle (all orders vs orders under $1K).
 - 💡 **Summary of Business Findings** – Chart subtitles update with the filters to name the top and lowest performers, and a dashed line shows the average conversion rate for comparison.
 
+**Key findings reflected in the dashboard:**
+
+- Channel drives conversion more than campaign: campaigns within the same channel are statistically indistinguishable.
+- Email and Referral convert best at the lowest cost; Display and Social convert worst.
+- Desktop converts better than mobile, and repeat customers convert better than new ones.
+- 151 orders of $1K or more make up about 73% of revenue, so revenue rankings should be read with the under-$1K toggle.
+
 ---
 
+### 1️⃣1️⃣ Generate Business Insights
+
+Key findings reflected in the dashboard:
+
+- Channel drives conversion more than campaign: campaigns within the same channel are statistically indistinguishable.
+- Email and Referral convert best at the lowest cost; Display and Social convert worst.
+- Desktop converts better than mobile, and repeat customers convert better than new ones.
+- 151 orders of $1K or more make up about 73% of revenue, so revenue rankings should be read with the under-$1K toggle.
+
+Insights should be based on actual analytical results rather than assumptions.

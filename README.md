@@ -354,3 +354,20 @@ Marketing-Campaign-Customer-Conversion-Analysis/
 
 ---
 
+## 🧠 Skills Demonstrated
+
+- Data cleaning and preprocessing
+- Data validation and quality checks
+- Exploratory data analysis
+- Python and Pandas
+- SQL querying and aggregation
+- Marketing KPI development
+- Customer segmentation
+- Campaign performance analysis
+- Data visualization
+- Power BI dashboard development
+- Business insight generation
+- Data-driven recommendations
+- Analytical problem-solving
+
+---

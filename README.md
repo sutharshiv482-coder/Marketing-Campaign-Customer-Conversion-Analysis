@@ -322,3 +322,35 @@ Potential recommendations include:
 Final recommendations should be supported by the project's actual findings.
 
 ---
+
+## 📁 Project Structure
+
+```text
+Marketing-Campaign-Customer-Conversion-Analysis/
+│
+├── data/
+│   ├── raw/
+│   │   └── marketing_dataset.csv
+│   └── processed/
+│       └── cleaned_marketing_dataset.csv
+│
+├── notebooks/
+│   └── marketing_campaign_analysis.ipynb
+│
+├── sql/
+│   └── marketing_analysis.sql
+│
+├── powerbi/
+│   └── marketing_campaign_dashboard.pbix
+│
+├── images/
+│   └── dashboard_preview.png
+│
+├── README.md
+└── requirements.txt
+```
+
+*This is a suggested structure. Update the filenames and folders to match your actual GitHub repository.*
+
+---
+

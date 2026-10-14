@@ -309,19 +309,20 @@ Insights should be based on actual analytical results rather than assumptions.
 
 ### 1️⃣2️⃣ Recommend Actions
 
-Translate findings into practical recommendations for marketing teams.
+Translate analytical findings into practical, data-driven recommendations to improve marketing campaign performance, customer conversion, and revenue generation.
 
-Potential recommendations include:
+Recommendations include:
 
-- Prioritize campaigns that demonstrate stronger performance.
-- Improve targeting for customer segments with higher conversion potential.
-- Review underperforming channels and campaign strategies.
-- Personalize marketing messages for relevant customer groups.
-- Use historical campaign results to improve future targeting.
-- Monitor conversion and response KPIs regularly.
-- Test campaign changes before expanding investment.
+- Prioritize high-converting campaigns, such as **Friends & Family (18.18%)** and **Cart Recovery (16.62%)**.
+- Strengthen high-performing marketing channels, particularly **Referral (18.28%)** and **Email (15.81%)**.
+- Investigate underperforming channels, especially **Display Ads (3.58%)**, to identify opportunities to improve targeting and campaign effectiveness.
+- Develop retention and repeat-purchase strategies for customers with a strong purchase history, as customers with **6+ prior purchases achieved a 19.00% conversion rate**.
+- Optimize mobile marketing experiences, as **Mobile had a lower conversion rate (9.11%) than Desktop (14.08%)**.
+- Encourage deeper website engagement by examining why customers who viewed more pages demonstrated higher conversion rates.
+- Monitor key marketing KPIs, including conversion rate, revenue, acquisition cost, and cost per conversion.
+- Test changes to campaign targeting, messaging, and channel investment before scaling successful strategies.
 
-Final recommendations should be supported by the project's actual findings.
+Final recommendations are based on the project's SQL analysis and dashboard findings, with the goal of improving marketing effectiveness and supporting data-driven business decisions.
 
 ---
 
@@ -332,12 +333,12 @@ Marketing-Campaign-Customer-Conversion-Analysis/
 │
 ├── data/
 │   ├── raw/
-│   │   └── marketing_dataset.csv
+│   │   └── marketing_campaign_data_dirty.csv
 │   └── processed/
-│       └── cleaned_marketing_dataset.csv
+│       └── marketing_campaign_cleaned.csv
 │
 ├── notebooks/
-│   └── marketing_campaign_analysis.ipynb
+│   └── marketing_campaign_eda.ipynb
 │
 ├── sql/
 │   └── marketing_analysis.sql

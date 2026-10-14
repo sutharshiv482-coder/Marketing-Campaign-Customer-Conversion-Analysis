@@ -223,17 +223,19 @@ The analysis focused on:
 
 # 7️⃣ Perform SQL Business Analysis
 
-Use **SQL** to answer business questions and calculate important marketing metrics.
+Use **MySQL** to analyze marketing performance, evaluate customer conversion behavior, and answer key business questions using aggregated metrics.
 
-Analysis may include:
+Analysis includes:
 
-* Total customers and customer distribution.
-* Overall campaign response and conversion rates.
-* Campaign-wise performance comparisons.
-* Customer segmentation and response analysis.
-* Channel-wise engagement and conversion analysis.
-* Identification of high-performing customer groups.
-* Aggregation of campaign metrics for reporting.
+- Calculating total records, distinct customers, conversions, and overall conversion rate.
+- Comparing campaign performance based on conversion rates, revenue, and campaign volume.
+- Evaluating marketing channel effectiveness using conversions, acquisition costs, and revenue.
+- Analyzing customer segments based on age group, gender, region, and previous purchase history.
+- Comparing conversion performance across devices and email engagement.
+- Investigating the relationship between website engagement, session duration, and conversion behavior.
+- Identifying high-performing customer groups across regions, channels, devices, and customer types.
+- Calculating key marketing KPIs, including average revenue, total acquisition cost, and cost per conversion.
+- Aggregating results to identify performance trends, improvement opportunities, and actionable business insights.
 
 ---
 

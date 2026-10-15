@@ -271,7 +271,7 @@ Potential KPIs include:
 
 ### 🔟 Build Interactive Marketing Dashboard (Web-Based)
 
-![Marketing Campaign Performance Dashboard]()
+![Marketing Campaign Performance Dashboard](https://github.com/sutharshiv482-coder/Marketing-Campaign-Customer-Conversion-Analysis/blob/main/dashboard_preview.png)
 
 Developed a single-page interactive dashboard that communicates marketing performance and customer conversion trends for 48,971 marketing contacts (Jan 2024 – Dec 2025). Duplicate records and placeholder values were cleaned before any measure was calculated.
 
@@ -384,3 +384,14 @@ By combining Python, Pandas, SQL, Excel, and Power BI, the project establishes a
 The ultimate objective is to help marketing teams understand campaign outcomes, identify opportunities for improvement, and make more informed, data-driven decisions.
 
 ---
+
+## 👤 Author
+
+**Data Analyst Portfolio Project**
+
+- GitHub: [Your GitHub Profile](https://github.com/sutharshiv482-coder)
+- LinkedIn: [Your LinkedIn Profile]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/shiv-suthar-06777a344/?isSelfProfile=true))
+
+---
+
+⭐ If you find this project useful, consider starring the repository.

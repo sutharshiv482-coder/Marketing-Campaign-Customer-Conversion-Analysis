@@ -348,11 +348,14 @@ Evaluate revenue contribution across marketing channels and compare it with conv
 
 ## 🔟 Build Web-Based Interactive Dashboard
 
+![Marketing Campaign Performance Dashboard]()
+
 A **web-based interactive Marketing Campaign Performance Dashboard** was developed to present key marketing metrics and analytical findings in a business-friendly format.
 
 The dashboard provides an interactive view of campaign performance, customer conversions, channel effectiveness, revenue contribution, and customer engagement.
 
 ### 📌 Dashboard Overview
+
 
 #### KPI Cards
 

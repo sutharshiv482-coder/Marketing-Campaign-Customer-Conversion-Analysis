@@ -348,23 +348,23 @@ Evaluate revenue contribution across marketing channels and compare it with conv
 
 ## 🔟 Build Web-Based Interactive Dashboard
 
-![Marketing Campaign Performance Dashboard](https://github.com/sutharshiv482-coder/Marketing-Campaign-Customer-Conversion-Analysis/blob/main/dashboard_preview.png)
-
 A **web-based interactive Marketing Campaign Performance Dashboard** was developed to present key marketing metrics and analytical findings in a business-friendly format.
+
+
+### 📊 Dashboard Preview
+
+![Marketing Campaign Performance Dashboard](https://github.com/sutharshiv482-coder/Marketing-Campaign-Customer-Conversion-Analysis/blob/main/dashboard_preview.png)
 
 The dashboard provides an interactive view of campaign performance, customer conversions, channel effectiveness, revenue contribution, and customer engagement.
 
-### 📌 Dashboard Overview
-
-
-#### KPI Cards
+### 📌 KPI Cards
 
 - Conversion Rate.
 - Total Conversions.
 - Total Revenue.
 - Cost per Conversion.
 
-#### Interactive Filters
+### 🎛️ Interactive Filters
 
 **Marketing Channel:**
 
@@ -393,7 +393,7 @@ The dashboard provides an interactive view of campaign performance, customer con
 - All Orders.
 - Orders Below $1K.
 
-#### 📊 Dashboard Visualizations
+### 📈 Dashboard Visualizations
 
 | Visualization | Purpose |
 |---|---|
@@ -404,7 +404,7 @@ The dashboard provides an interactive view of campaign performance, customer con
 | Conversion by Prior Purchases | Understand conversion patterns based on purchase history |
 | Conversion by Pages Viewed | Examine the relationship between website engagement and conversion |
 
-#### Dashboard Features
+### Dashboard Features
 
 - Interactive filtering.
 - Dynamic KPI monitoring.
@@ -431,32 +431,44 @@ The dashboard and analytical results provide several important observations.
 
 ### 📊 Marketing Channel Performance
 
-- Referral has the highest displayed channel conversion rate at **18.3%**.
-- Email follows with a conversion rate of **15.8%**.
-- Organic Search records **12.7%**.
-- Paid Search records **11.5%**.
-- Social Media records **6.2%**.
-- Display Ads records **3.6%**.
+| Marketing Channel | Conversion Rate |
+|---|---:|
+| Referral | 18.3% |
+| Email | 15.8% |
+| Organic Search | 12.7% |
+| Paid Search | 11.5% |
+| Social Media | 6.2% |
+| Display Ads | 3.6% |
+
+Referral has the highest displayed channel conversion rate, while Display Ads has the lowest.
 
 ### 💰 Revenue Contribution
 
-- Email generates the highest displayed channel revenue at approximately **$479.9K**.
-- Organic Search contributes approximately **$342.2K**.
-- Social Media contributes approximately **$308.3K**.
-- Paid Search contributes approximately **$296.3K**.
-- Referral contributes approximately **$222.3K**.
-- Display Ads contributes approximately **$51.7K**.
+| Marketing Channel | Revenue |
+|---|---:|
+| Email | $479.9K |
+| Organic Search | $342.2K |
+| Social Media | $308.3K |
+| Paid Search | $296.3K |
+| Referral | $222.3K |
+| Display Ads | $51.7K |
+
+Email generates the highest displayed revenue contribution, at approximately **$479.9K**.
 
 ### 💻 Device Performance
 
-- Desktop has the highest displayed device conversion rate at **14.1%**.
-- Unknown devices record **11.3%**.
-- Tablet records **10.1%**.
-- Mobile records **9.1%**.
+| Device | Conversion Rate |
+|---|---:|
+| Desktop | 14.1% |
+| Unknown | 11.3% |
+| Tablet | 10.1% |
+| Mobile | 9.1% |
+
+Desktop has the highest displayed device conversion rate, while Mobile has the lowest.
 
 ### 👥 Prior Purchase Analysis
 
-The dashboard shows higher conversion rates among customers with more prior purchases:
+The dashboard shows higher conversion rates among customers with more prior purchases.
 
 | Prior Purchases | Conversion Rate |
 |---|---:|
@@ -468,7 +480,7 @@ The dashboard shows higher conversion rates among customers with more prior purc
 
 ### 🌐 Website Engagement Analysis
 
-Customers who viewed more website pages demonstrate higher observed conversion rates:
+Customers who viewed more website pages demonstrate higher observed conversion rates.
 
 | Pages Viewed | Conversion Rate |
 |---|---:|
@@ -481,7 +493,7 @@ Customers who viewed more website pages demonstrate higher observed conversion r
 
 ### 📌 Overall Performance
 
-The dashboard displays:
+The dashboard displays the following results:
 
 | Metric | Result |
 |---|---:|
@@ -525,7 +537,7 @@ Study the relationship between pages viewed and conversion to identify opportuni
 
 ### 💰 Monitor Revenue and Acquisition Costs
 
-Evaluate channel performance using both revenue contribution and cost per conversion rather than relying on conversion rate alone.
+Evaluate channel performance using conversion rates, revenue contribution, and cost per conversion rather than relying on a single metric.
 
 ### 📈 Monitor Marketing KPIs
 
@@ -540,17 +552,6 @@ Track important metrics consistently:
 - Revenue by Channel.
 
 Recommendations should be tested and validated using further analysis before implementing major marketing changes.
-
----
-
-## 📊 Dashboard Preview
-
-**Marketing Campaign Performance Dashboard**
-
-The interactive dashboard provides a consolidated view of marketing campaign performance, customer conversion, channel effectiveness, revenue contribution, device performance, prior purchases, and website engagement.
-
-<!-- Add your dashboard screenshot below -->
-<!-- ![Marketing Campaign Dashboard](dashboard_preview.png) -->
 
 ---
 

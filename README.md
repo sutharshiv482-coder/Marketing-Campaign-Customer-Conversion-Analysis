@@ -348,7 +348,7 @@ Evaluate revenue contribution across marketing channels and compare it with conv
 
 ## 🔟 Build Web-Based Interactive Dashboard
 
-![Marketing Campaign Performance Dashboard]()
+![Marketing Campaign Performance Dashboard](https://github.com/sutharshiv482-coder/Marketing-Campaign-Customer-Conversion-Analysis/blob/main/dashboard_preview.png)
 
 A **web-based interactive Marketing Campaign Performance Dashboard** was developed to present key marketing metrics and analytical findings in a business-friendly format.
 
